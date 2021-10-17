@@ -86,7 +86,7 @@
         modified:   README.md
         modified:   core/settings.py
 
-<a href="https://github.com/gurnitha/django-torang-bisa/commit/ba06979cf35628726f0f1feca15a95811755ad05" target="_blank" rel="noopener noreferrer">Perubahan kode</a>
+<a href="https://github.com/gurnitha/django-torang-bisa/commit/ba06979cf35628726f0f1feca15a95811755ad05" target="_blank" rel="noopener noreferrer">Lihat perubahan kode</a>
 
 
 ### 4. DJANGO APP
@@ -114,7 +114,7 @@
         new file:   app/proyek/tests.py
         new file:   app/proyek/views.py       
 
-<a href="https://github.com/gurnitha/django-torang-bisa/commit/134ee3940b5dc1375525df4cc318326c4d462c6e" target="_blank" rel="noopener noreferrer">Perubahan kode</a>
+<a href="https://github.com/gurnitha/django-torang-bisa/commit/134ee3940b5dc1375525df4cc318326c4d462c6e" target="_blank" rel="noopener noreferrer">Lihat perubahan kode</a>
 
 
 #### 4.2 Mengistal proyek pada settings.py
@@ -123,7 +123,7 @@
         modified:   app/proyek/apps.py
         modified:   core/settings.py
 
-<a href="https://github.com/gurnitha/django-torang-bisa/commit/5d99f6cb698d4dc6b2e220f604c50119b4254e0b" target="_blank" rel="noopener noreferrer">Perubahan kode</a>
+<a href="https://github.com/gurnitha/django-torang-bisa/commit/5d99f6cb698d4dc6b2e220f604c50119b4254e0b" target="_blank" rel="noopener noreferrer">Lihat perubahan kode</a>
 
 
 ### 5. DJANGO MODEL ATAU TABEL
@@ -193,7 +193,7 @@
         new file:   app/proyek/migrations/0001_initial.py
         modified:   app/proyek/models.py
 
-<a href="https://github.com/gurnitha/django-torang-bisa/commit/145523945e2981d089ee2370c82029a223befabf" target="_blank" rel="noopener noreferrer">Perubahan kode</a>
+<a href="https://github.com/gurnitha/django-torang-bisa/commit/145523945e2981d089ee2370c82029a223befabf" target="_blank" rel="noopener noreferrer">Lihat perubahan kode</a>
 
 
 #### 5.2 Mencatatkan model 'Project' pada admin
@@ -201,7 +201,7 @@
         modified:   README.md
         modified:   app/proyek/admin.py
 
-<a href="https://github.com/gurnitha/django-torang-bisa/commit/316d7e08437c6042f1494cd85bd86a589a3748f5" target="_blank" rel="noopener noreferrer">Perubahan kode</a>
+<a href="https://github.com/gurnitha/django-torang-bisa/commit/316d7e08437c6042f1494cd85bd86a589a3748f5" target="_blank" rel="noopener noreferrer">Lihat perubahan kode</a>
 
 
 #### 5.3 Membuat superuser
@@ -216,10 +216,15 @@
 
         modified:   README.md
 
-<a href="https://github.com/gurnitha/django-torang-bisa/commit/73e4b53372c27180d99c201d21ed140f9a0572a1" target="_blank" rel="noopener noreferrer">Perubahan kode</a>
+<a href="https://github.com/gurnitha/django-torang-bisa/commit/73e4b53372c27180d99c201d21ed140f9a0572a1" target="_blank" rel="noopener noreferrer">Lihat perubahan kode</a>
 
 
 #### 5.4 Modifikasi README.md file
+
+        modified:   README.md
+
+
+#### 5.5 Modifikasi README.md file
 
         modified:   README.md
 
