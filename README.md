@@ -193,6 +193,14 @@
         new file:   app/proyek/migrations/0001_initial.py
         modified:   app/proyek/models.py
 
+<a href="https://github.com/gurnitha/django-torang-bisa/commit/145523945e2981d089ee2370c82029a223befabf" target="_blank" rel="noopener noreferrer">Github repositori</a>
+
+
+#### 5.2 Mencatatkan model 'Project' pada admin
+
+        modified:   README.md
+        modified:   app/proyek/admin.py
+
 
 
 
