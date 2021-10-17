@@ -86,7 +86,33 @@
         modified:   README.md
         modified:   core/settings.py
 
+<a href="https://github.com/gurnitha/django-torang-bisa/commit/ba06979cf35628726f0f1feca15a95811755ad05" target="_blank" rel="noopener noreferrer">Github repositori</a>
 
+
+### 4. DJANGO APP
+### -------------------------------------------------
+
+
+#### 4.1 Membuat django app dengan nama 'proyek'
+
+        Steps:
+
+        1. Membuat folder baru dgn nama 'app'
+           > dari terminal: mkdir app
+        2. Membuat foder baru di dalam folder app dgn nama 'proyek'
+           > dari terminal: mkdir app\proyek
+        3. Memembuat django app dgn nama 'proyek'
+           > dari terminal: python manage.py startapp app\proyek
+        4. Hasilnya spt di bawah ini:
+
+        modified:   README.md
+        new file:   app/proyek/__init__.py
+        new file:   app/proyek/admin.py
+        new file:   app/proyek/apps.py
+        new file:   app/proyek/migrations/__init__.py
+        new file:   app/proyek/models.py
+        new file:   app/proyek/tests.py
+        new file:   app/proyek/views.py       
 
 
 
