@@ -4,7 +4,6 @@
 <a href="https://github.com/gurnitha/django-torang-bisa" target="_blank">Github repositori</a>
 
 
-### -------------------------------------------------
 ### 1. INISIAL COMMIT
 ### -------------------------------------------------
 
@@ -14,8 +13,26 @@
         new file:   .gitignore
         new file:   README.md
 
-<a href="" target="_blank">Github repositori</a>
+<a href="https://github.com/gurnitha/django-torang-bisa/commits/main" target="_blank">Github repositori</a>
 
+
+### 2. INISIAL SETUP
+### -------------------------------------------------
+
+
+#### 2.1 Membuat Django proyek
+
+        > λ django-admin startproject core .
+
+        modified:   README.md
+        new file:   core/__init__.py
+        new file:   core/asgi.py
+        new file:   core/settings.py
+        new file:   core/urls.py
+        new file:   core/wsgi.py
+        new file:   manage.py
+
+<a href="" target="_blank">Github repositori</a>
 
 
 
