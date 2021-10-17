@@ -13,7 +13,7 @@
         new file:   .gitignore
         new file:   README.md
 
-<a href="https://github.com/gurnitha/django-torang-bisa/commits/main" target="_blank">Github repositori</a>
+<a href="https://github.com/gurnitha/django-torang-bisa/commits/main" target="_blank">Lihat perubahan kode</a>
 
 
 ### 2. INISIAL SETUP
@@ -32,7 +32,7 @@
         new file:   core/wsgi.py
         new file:   manage.py
 
-<a href="https://github.com/gurnitha/django-torang-bisa/commits/main" target="_blank" rel="noopener noreferrer">Github repositori</a>
+<a href="https://github.com/gurnitha/django-torang-bisa/commits/main" target="_blank" rel="noopener noreferrer">Lihat perubahan kode</a>
 
 
 ### 3. MYSQL DATABASE
@@ -225,6 +225,11 @@
 
 
 #### 5.5 Modifikasi README.md file
+
+        modified:   README.md
+
+
+#### 5.6 Modifikasi README.md file
 
         modified:   README.md
 
