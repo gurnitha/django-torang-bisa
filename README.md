@@ -123,6 +123,75 @@
         modified:   app/proyek/apps.py
         modified:   core/settings.py
 
+<a href="https://github.com/gurnitha/django-torang-bisa/commit/5d99f6cb698d4dc6b2e220f604c50119b4254e0b" target="_blank" rel="noopener noreferrer">Github repositori</a>
+
+
+### 5. DJANGO MODEL ATAU TABEL
+### -------------------------------------------------
+
+
+#### 5.1 Membuat model dgn nama 'Project' dan menjalankan perintah migrasi
+
+        Steps:
+        1. Membuat model
+        2. Menjalankan perintah migrasi dari terminal
+           > python manage.py makemigrations
+           > python manage.py migrate
+        3. Memerikasa hasil perintah
+
+        λ python manage.py sqlmigrate proyek 0001
+        --
+        -- Create model Project
+        --
+        CREATE TABLE 
+        `proyek_project` (
+                `title` varchar(200) NOT NULL, 
+                `description` longtext NULL, 
+                `demo_link` varchar(2000) NULL, 
+                `source_link` varchar(2000) NULL, 
+                `created` datetime(6) NOT NULL, 
+                `id` char(32) NOT NULL PRIMARY KEY
+        ); 
+
+        4. Memerikasa hasil perintah dalam format sql        
+           > python manage.py dbshell 
+
+        mysql> SHOW tables;
+        +------------------------------+
+        | Tables_in_django_torang_bisa |
+        +------------------------------+
+        | auth_group                   |
+        | auth_group_permissions       |
+        | auth_permission              |
+        | auth_user                    |
+        | auth_user_groups             |
+        | auth_user_user_permissions   |
+        | django_admin_log             |
+        | django_content_type          |
+        | django_migrations            |
+        | django_session               |
+        | proyek_project               |
+        +------------------------------+
+        11 rows in set (0.00 sec)
+
+        5. Memerikasa model/tabel Project
+
+        mysql> DESC proyek_project;
+        +-------------+---------------+------+-----+---------+-------+
+        | Field       | Type          | Null | Key | Default | Extra |
+        +-------------+---------------+------+-----+---------+-------+
+        | title       | varchar(200)  | NO   |     | NULL    |       |
+        | description | longtext      | YES  |     | NULL    |       |
+        | demo_link   | varchar(2000) | YES  |     | NULL    |       |
+        | source_link | varchar(2000) | YES  |     | NULL    |       |
+        | created     | datetime(6)   | NO   |     | NULL    |       |
+        | id          | char(32)      | NO   | PRI | NULL    |       |
+        +-------------+---------------+------+-----+---------+-------+
+        6 rows in set (0.00 sec)        
+
+        modified:   README.md
+        new file:   app/proyek/migrations/0001_initial.py
+        modified:   app/proyek/models.py
 
 
 
