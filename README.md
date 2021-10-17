@@ -201,6 +201,20 @@
         modified:   README.md
         modified:   app/proyek/admin.py
 
+<a href="https://github.com/gurnitha/django-torang-bisa/commit/316d7e08437c6042f1494cd85bd86a589a3748f5" target="_blank" rel="noopener noreferrer">Github repositori</a>
+
+
+#### 5.3 Membuat superuser
+
+        Steps:
+
+        1. > λ python manage.py createsuperuser
+        Username (leave blank to use 'hp'): (isi nama username)
+        Email address: (isi alamat email)
+        Password:(isi password)
+        Password (again):(ulangi password yg sama)
+
+        modified:   README.md
 
 
 
