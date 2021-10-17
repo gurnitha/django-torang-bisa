@@ -42,6 +42,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
+    # Locals
+    'app.proyek.apps.ProyekConfig',
 ]
 
 MIDDLEWARE = [

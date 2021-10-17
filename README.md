@@ -114,6 +114,14 @@
         new file:   app/proyek/tests.py
         new file:   app/proyek/views.py       
 
+<a href="https://github.com/gurnitha/django-torang-bisa/commit/134ee3940b5dc1375525df4cc318326c4d462c6e" target="_blank" rel="noopener noreferrer">Github repositori</a>
+
+
+#### 4.2 Mengistal proyek pada settings.py
+
+        modified:   README.md
+        modified:   app/proyek/apps.py
+        modified:   core/settings.py
 
 
 
